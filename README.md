@@ -6,6 +6,6 @@ To run the project locally:<br>
 - Run `npm run dev`
 - Follow instructions in the terminal to open the project in the broswer <br>
 <br>
-From, my takeaway is that SvelteKit seems like a great solution for web development, routing was simple and intuitive; I'll try to make a larger project using this framework.<br>
-<br>
-[test link](https://example.com)
+My takeaway is that SvelteKit seems like a great solution for web development, routing was simple and intuitive; I'll try to make a larger project using this framework.<br>
+
+[Reference tutorial video](https://www.youtube.com/watch?v=7hXHbGj6iE0&list=PLA9WiRZ-IS_zfHpxmztJQLeBISsQkh9-M&index=3)
