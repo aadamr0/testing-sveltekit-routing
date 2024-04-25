@@ -7,4 +7,5 @@ To run the project locally:<br>
 - Follow instructions in the terminal to open the project in the broswer <br>
 <br>
 From, my takeaway is that SvelteKit seems like a great solution for web development, routing was simple and intuitive; I'll try to make a larger project using this framework.<br>
+<br>
 [test link](https://example.com)
