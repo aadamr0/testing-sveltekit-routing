@@ -1,6 +1,6 @@
 **Created a barebones SvelteKit project to spike the framework and test its routing capabilities** <br>
 To run the project locally:<br>
-- Clone the repository by running `git clone https://github.com/aadamr0/Preact-Navbar-Spiking.git`
+- Clone the repository by running `git clone https://github.com/aadamr0/testing-sveltekit-routing.git`
 - Run `cd Preact-Navbar-Spiking` to enter the project directory
 - Run `npm install` to install dependencies
 - Run `npm run dev`
